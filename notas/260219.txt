@@ -1,0 +1,55 @@
+	UX - experiencia do usuario estuda e define, de acordo com alguns importantes autores, a aceitação e forma como o 
+	usuario interege com sistemas digitais, como aplicações sites, computador e afin
+	
+	CX - customer experience
+	mai amplo, definindo a jornada como consumir com a marca, inclusao de canais fisicos suporte e afins
+
+	IHC - area de estudo sobre o relacionamento entre humano e dispocitivos computacionais
+
+	UI - user interface
+	design visual e interativo do sistema
+	
+	UX - user experiencia experiencia global do usuario ao utilizar o sistema
+	
+	ui impacta ux, mas ux vai alem da aparencia(UI)
+	
+
+	integração entre UX(disciplina) e ABP
+	para abp dentro da materia de ux, sera baseado em um projeto exclusivo da materia, e executado em grupo, fora do abp oficial do semestre.
+	esta sendo utilizado um exemplo do inpe, mas nao sera exclusivamente um modelo padrão, 
+	#		......verificar com a professora se o tema do projeto devera ser descidido pelo grupo......
+
+	DCU - design centrado no usuario
+	desenvolvimento focado nas necessidades, expectativas e limitaçãoes do usuario
+	teste com usuario reais garantem eficiencia
+	melhorias constantes sao feitas com base no feedback
+
+	#	metodo design thinking - dar uma olhada no metodo e aplicar durante o projeto de UX
+		
+	MAPA DE EXPECTATIVAS:
+	ferramenta para identificar o que o usuario espera, considera essencial e quer evitar
+	utilizado na faze de descoberta
+	componentes
+	- sentimentos desejados
+	- funcionalidades essenciais
+	- frustrações a evitar
+	- indicadores de sucesso
+	- requisitos de UX
+
+exemplo aplicado a app inpe em ordem, dos componentes do mapa de expectativas
+- segurança
+- alerta geolocalizado
+- alarme falso
+- tempo de abertura < de 1 min
+- texto legivel e claro
+
+
+	Método MosCow
+	tecnica de priorização para organizar os requisitos		exemplos aplicados inpe
+	must have		precisa ter				alerga geolocalizado
+	should have		importante ter				historico de eventos
+	could have		desejavel ter				personalizar sons
+	won't have		fora do escopo, dispensavel		integração de redes sociais
+
+
+	# os grupos deverao escolher os temas, com este tema escolhido sera criado um app (de acordo com as atividades, nao necessariamente o app rodavel) mas atendendo todas as atividades de UX solicitadas durante as aulas... provavelmente no figma, verificar os detalhes junto a professora quando possivel
