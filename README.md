@@ -1,7 +1,7 @@
 # Portfólio – Experiência do Usuário – 2026/1
 
 ## 👤 Aluno
-- Nome: Marcos Vinícius Siqueira de Andrade Oliveira
+- Nome: Vinícius Lemes dos Santos
 
 ---
 
